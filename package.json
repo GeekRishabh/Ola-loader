@@ -1,0 +1,32 @@
+{
+  "name": "uber-loader",
+  "version": "1.0.2",
+  "description": "ola/uber driver request loader for your react native app",
+  "main": "PulseLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Geekrishabh/Ola-loader.git"
+  },
+  "keywords": [
+    "react-native",
+    "uber",
+    "ola",
+    "lyft",
+    "loader",
+    "nearby-driver",
+    "request-loader",
+    "location-loader"
+  ],
+  "peerDependencies": {
+    "react-native": "^0.27"
+  },
+  "author": "GeekRishabh",
+  "license": "GeekyAnts",
+  "bugs": {
+    "url": "https://github.com/Geekrishabh/Ola-loader.git/issues"
+  },
+  "homepage": "https://github.com/Geekrishabh/Ola-loader.git#readme"
+}
